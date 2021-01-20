@@ -1,5 +1,5 @@
 # EcomerceDashboard
-https://github.com/luuthang2106/ecomerce-dashboard
+https://dashlite.themenio.com/demo2/ecommerce/index.html
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.7.
 
